@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ed3d37e674e64f7ba4944d3eb567051, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  name: Charmander
+  description: The flame on its tail shows the strength of its life-force. If Charmander
+    is weak, the flame also burns weakly.
+  frontSprite: {fileID: 21300000, guid: cb7bcbb9017f84040a30a8ddd1b63506, type: 3}
+  backSprite: {fileID: 21300000, guid: 05e973bf521838d4c9e429d9ce0b09de, type: 3}
+  type1: 10
+  type2: 0
+  healthpoints: 39
+  attack: 52
+  defense: 43
+  spAttack: 60
+  spDefense: 50
+  speed: 65
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: cfc85168e8d8e5a47bca851c76fff405, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 84ef2ed810330ec4f9a3997908c34479, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5218f098994807e4c9bfba1aaa8503a5, type: 2}
+    level: 4
