@@ -1,4 +1,4 @@
-Welcome to my very own Pokemon Game!
+## Welcome to my very own Pokemon Game!
 
 This project is helping be build my skills in several different programs such as; Unity, Illustrator, Photoshop, Visual Code Studio, and FL Studio.
 
