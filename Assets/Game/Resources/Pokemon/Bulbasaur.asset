@@ -15,11 +15,11 @@ MonoBehaviour:
   name: Bulbasaur
   description: It carries a seed on its back right from birth. As its body grows
     larger, the seed does too.
-  frontSprite: {fileID: 21300000, guid: 2cec1bb738aa76945883f5a8bf689c46, type: 3}
-  backSprite: {fileID: 21300000, guid: b472a3ebc44bfa040b07fa03e2a968d3, type: 3}
+  frontSprite: {fileID: 21300000, guid: 351fd0275e4c343ca975184cd3cdcb91, type: 3}
+  backSprite: {fileID: 21300000, guid: 6d0904f16654648bcb8911eb1b0b4773, type: 3}
   type1: 12
   type2: 4
-  healthpoints: 45
+  maxHP: 0
   attack: 49
   defense: 49
   spAttack: 65
